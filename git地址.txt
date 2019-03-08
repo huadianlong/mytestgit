@@ -1,0 +1,2 @@
+git remote add origin https://github.com/tugenhua0707/testgit.git
+git remote add origin https://github.com/huadianlong/mytestgit.git
